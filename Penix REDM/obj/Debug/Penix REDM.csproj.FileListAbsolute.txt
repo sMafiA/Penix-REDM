@@ -1,0 +1,12 @@
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\bin\Debug\Penix REDM.exe.config
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\bin\Debug\Penix REDM.exe
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\bin\Debug\Penix REDM.pdb
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix REDM.csprojAssemblyReference.cache
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix_REDM.Properties.Resources.resources
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix REDM.csproj.GenerateResource.cache
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix REDM.csproj.CoreCompileInputs.cache
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix REDM.csproj.CopyComplete
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix REDM.exe
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix REDM.pdb
+C:\Users\damie\source\repos\Penix REDM\Penix REDM\obj\Debug\Penix_REDM.Form1.resources
