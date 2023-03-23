@@ -1,4 +1,7 @@
 # Penix-REDM
+
+Coded in C# 100%
+
 LUA menu scheduler for REDM client by cfx.re
 
 Hello github, this is a working recreation of the REDM "LUA Executor" like Phoenix & Lokishop.
